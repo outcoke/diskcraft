@@ -1,4 +1,13 @@
 {
+  "helloworld": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "diskcraft:helloworldssss",
+        "stream": false
+      }
+    ]
+  },
   "otherside": {
     "category": "neutral",
     "sounds": [

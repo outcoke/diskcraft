@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_hasibix",
+    "name": "Hello World",
+    "description": "H????? ?/ x ??? ? ???? - ????? ?????",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:helloworld"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

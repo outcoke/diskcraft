@@ -46,6 +46,8 @@ public class DiskcraftModElements {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 
 	public DiskcraftModElements() {
+		sounds.put(new ResourceLocation("diskcraft", "helloworld"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("diskcraft", "helloworld")));
 		sounds.put(new ResourceLocation("diskcraft", "otherside"), new net.minecraft.util.SoundEvent(new ResourceLocation("diskcraft", "otherside")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("diskcraft").getFile().getScanResult();
