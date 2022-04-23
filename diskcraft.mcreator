@@ -1,0 +1,52 @@
+{
+  "mod_elements": [
+    {
+      "name": "Otherside",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "otherside"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "otherside",
+      "files": [
+        "otherside"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.diskcraft.otherside.desc": "Lena Raine - otherside",
+      "subtitles.otherside": "",
+      "item.diskcraft.otherside": "Lena Raine - otherside"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "diskcraft",
+    "modName": "DiskCraft",
+    "version": "1.0.0",
+    "author": "Home, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.diskcraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

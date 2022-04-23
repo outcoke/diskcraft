@@ -1,0 +1,11 @@
+{
+  "otherside": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "diskcraft:otherside",
+        "stream": false
+      }
+    ]
+  }
+}
