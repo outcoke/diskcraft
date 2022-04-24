@@ -7,14 +7,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "otherside"
-    },
-    {
-      "name": "HelloWorld",
-      "type": "musicdisc",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hello_world"
     }
   ],
   "variable_elements": [],
@@ -40,9 +32,7 @@
     "en_us": {
       "item.diskcraft.otherside.desc": "Lena Raine - otherside",
       "subtitles.otherside": "",
-      "item.diskcraft.hello_world.desc": "H????? ?/ x ??? ? ???? - ????? ?????",
       "item.diskcraft.otherside": "Music Disc",
-      "item.diskcraft.hello_world": "Hello World",
       "subtitles.helloworld": ""
     }
   },
